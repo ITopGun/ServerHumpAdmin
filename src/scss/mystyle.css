@@ -1,0 +1,22 @@
+@media (min-width: 576px){
+  .modal-dialog {
+        max-width: 700px;
+        margin: 1.75rem auto;
+    }  
+}
+
+.modal-footer {
+    display: block;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0.75rem;
+    border-top: 1px solid;
+    border-bottom-right-radius: calc(0.3rem - 1px);
+    border-bottom-left-radius: calc(0.3rem - 1px);
+    border-color: #d8dbe0;
+}
+
+table{
+    background:white;
+}
