@@ -77,7 +77,7 @@ CoreUI-React#v3.0.0
 
 ## Creators
 
-**Łukasz Holeczek**
+
 * <https://github.com/ITopGun>
 * <https://github.com/mrholek>
 * <https://github.com/coreui>
