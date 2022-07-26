@@ -81,6 +81,3 @@ CoreUI-React#v3.0.0
 * <https://github.com/ITopGun>
 * <https://github.com/mrholek>
 * <https://github.com/coreui>
-
-**CoreUI team**
-
