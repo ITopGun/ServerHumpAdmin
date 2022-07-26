@@ -75,9 +75,3 @@ CoreUI-React#v3.0.0
 └── package.json
 ```
 
-## Creators
-
-
-
-
-
