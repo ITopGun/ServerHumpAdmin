@@ -79,5 +79,5 @@ CoreUI-React#v3.0.0
 
 
 
-* <https://github.com/mrholek>
+
 * <https://github.com/coreui>
