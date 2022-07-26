@@ -80,4 +80,4 @@ CoreUI-React#v3.0.0
 
 
 
-* <https://github.com/coreui>
+
