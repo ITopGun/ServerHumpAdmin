@@ -83,4 +83,4 @@ CoreUI-React#v3.0.0
 * <https://github.com/coreui>
 
 **CoreUI team**
-* https://github.com/orgs/coreui/people
+
